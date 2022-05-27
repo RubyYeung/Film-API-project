@@ -1,0 +1,19 @@
+{
+    "title": "Mr",
+    "firstName": "Jason",
+    "lastName": "Watmore",
+    "email": "jason@example.com",
+    "password": "my-super-secret-password",
+    "confirmPassword": "my-super-secret-password",
+    "acceptTerms": true
+}
+
+{
+    "title": "Mr",
+    "firstName": "Ruby",
+    "lastName": "Watmore",
+    "email": "ruby@example.com",
+    "password": "my-super-secret-password",
+    "confirmPassword": "my-super-secret-password",
+    "acceptTerms": true
+}
